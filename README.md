@@ -1,6 +1,6 @@
 ### Hi, I'm Valentin Legras 👋
 
-I'm a **Pharmacokinetics (PK) Data Scientist** at Roche, a position I've held since 2020. My work revolves around **R**, **R Shiny**, data analysis, and data science, with a special focus on contributing to the `aNCA` package within the **pharmaverse** ecosystem.
+I'm a **Pharmacokinetics (PK) Data Scientist** at Roche, a position I've held since 2020. My work revolves around **R**, **R Shiny**, data analysis, and data science, with a special focus on contributing to the `aNCA` package as a Product Owner within the **pharmaverse** ecosystem.
 
 I'm passionate about leveraging data to drive insights in drug development and enjoy creating robust tools and packages to support analysis and reporting.
 
