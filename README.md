@@ -33,10 +33,10 @@ Here are some of the tools and technologies I work with:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaakon35&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Shaakon35's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=Shaakon35&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Shaakon35's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaakon35&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Shaakon35&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
 
